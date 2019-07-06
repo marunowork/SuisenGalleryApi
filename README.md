@@ -18,7 +18,7 @@
    ```
    $ git clone https://github.com/marunowork/SuisenGalleryApi.git
    $ cd SuisenGalleryApi
-   $ docker build -t SuisenGalleryAPI .
+   $ docker build -t suisengalleryapi .
    
    ```
 
