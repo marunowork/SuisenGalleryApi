@@ -15,7 +15,7 @@ from flask_cors import CORS
 import subprocess
 from subprocess import check_output
 from jsonp_flask import jsonp
-from app.constants import *
+from constants import *
 
 ## setting 
 app = Flask(__name__)
