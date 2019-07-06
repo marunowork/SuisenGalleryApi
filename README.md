@@ -29,7 +29,7 @@
 1. コンテナを起動します。
 
    ```
-   $ docker run --rm -p 8000:8000 -v 保存場所のフルパス:/opt/data-volume -w /opt/data-volume SuisenGalleryAPI
+   $ docker run --rm -p 8000:8000 -v 保存場所のフルパス:/opt/data-volume -w /opt/data-volume Suisengalleryapi
    ```
 
    
